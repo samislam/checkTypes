@@ -8,7 +8,7 @@ Originally created in 24 - 01 - 2021
 
 You can now finally check for types as quck as possible, no more need for `typeof "x" === "string"`
 
-- Just a side note before doing anything, I'm using [@samislam/log \[ log() \]](https://www.npmjs.com/package/@samislam/log") which is a very cool utility for logging into the console, it allows for a cool and nice output to the console colored with your favorie color. [check it right now on npm, it's free!](https://www.npmjs.com/package/@samislam/log)
+- Just a side note before doing anything, I'm using [@samislam/log \[ log() \]](https://www.npmjs.com/package/@samislam/log) which is a very cool utility for logging into the console, it allows for a cool and nice output to the console colored with your favorie color. [check it right now on npm, it's free!](https://www.npmjs.com/package/@samislam/log)
 
 ## `checkTypes.isSOMETHING(arg1, arg2, arg3 ...etc)`
 
